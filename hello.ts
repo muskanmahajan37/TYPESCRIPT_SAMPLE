@@ -1,0 +1,5 @@
+function adNumbers(a: number, b: number) { 
+    return a + b; 
+} 
+var sum: number = adNumbers(10,15) 
+console.log('Sum of the two numbers is: ' +sum); 
